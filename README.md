@@ -1,5 +1,5 @@
 # bamazon
 
-[Contribution guidelines for this project](img/first)
+![Alt text](img/first "Title")
 
-[Contribution guidelines for this project](img/second)
+![Alt text](img/second "Title")
